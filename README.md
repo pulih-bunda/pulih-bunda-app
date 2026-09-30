@@ -88,3 +88,4 @@ Tahap awal: proyek Flutter sudah diinisiasi dan kelompok sedang menyiapkan lingk
 
 
 
+- Nadhif Shoeema Goldist (PM) - environment setup done
