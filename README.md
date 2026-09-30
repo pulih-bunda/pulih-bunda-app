@@ -13,7 +13,7 @@ Proyek kelompok mata kuliah **CIE516 — Perancangan Aplikasi Mobile** (Semester
 |Daffa Ludian Fauzan|Front-End (FE)|
 |Dwi Ahmad Maulana|UI/UX|
 |Lucas Gabriel Mahatan|Integration Developer|
-||Project Manager (PM)|
+|Nadhif Shoeema Goldist|Project Manager (PM)|
 |Muhammad Riyan Hardiono|UI/UX|
 
 ## Latar Belakang
