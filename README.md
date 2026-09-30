@@ -22,7 +22,7 @@ Ibu pasca melahirkan sering merasa cemas dan tidak percaya diri karena sulit men
 
 **Pengguna sasaran:** ibu baru (persona: Ibu Wiwi, 27 tahun, anak pertama) dan suami sebagai pendamping.
 
-**Temuan wawancara** (kualitatif, 2 ibu pasca melahirkan dan 1 suami pendamping):
+**Temuan wawancara** (kualitatif, 3 ibu pasca melahirkan dan 2 suami pendamping):
 
 1. Isu emosional dan baby blues: fluktuasi hormon, cemas mengurus bayi, takut dinilai kurang sempurna.
 2. Informasi tumbuh kembang dan stimulasi sulit didapat, sehingga dibutuhkan satu platform terstruktur.
@@ -86,7 +86,3 @@ Pilih emulator Android atau HP Android dengan USB debugging aktif sebagai perang
 
 Tahap awal: proyek Flutter sudah diinisiasi dan kelompok sedang menyiapkan lingkungan kerja serta rancangan antarmuka.
 
-
-
-- Nadhif Shoeema Goldist (PM) - environment setup done
-- Nadhif Shoeema Goldist (PM) - environment setup done
