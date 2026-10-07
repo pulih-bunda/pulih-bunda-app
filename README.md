@@ -51,6 +51,9 @@ Aplikasi ini **tidak** menyediakan layanan diagnosis medis langsung atau konsult
 * Flutter (Dart)
 * Target utama: Android
 
+## Sumber
+https://drive.google.com/drive/folders/12SWOF5cf9Lxr695jKQFVSaC72Wnj8VU9
+
 ## Struktur Repositori
 
 ```
